@@ -1,6 +1,6 @@
 # HTML5 Notification API wrapper #
 
-This code can be used for test purpose and understand howto HTML5 Notification API works.
+This code and [http://mykolaprymak.github.io/notification_api/](demo) can be used for test purpose and understand howto HTML5 Notification API works.
 
 Example using:
 
