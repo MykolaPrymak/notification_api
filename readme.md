@@ -1,6 +1,6 @@
 # HTML5 Notification API wrapper #
 
-This code and [http://mykolaprymak.github.io/notification_api/](demo) can be used for test purpose and understand howto HTML5 Notification API works.
+This code and [demo](http://mykolaprymak.github.io/notification_api/) can be used for test purpose and understand howto HTML5 Notification API works.
 
 Example using:
 
@@ -59,4 +59,4 @@ $('#requestPermission').click(function() {
 ## Used materials ##
 
 * [Source article (RU)](http://habrahabr.ru/post/183630/)
-* [MDN docs] (https://developer.mozilla.org/en-US/docs/Web/API/notification)
+* [MDN docs](https://developer.mozilla.org/en-US/docs/Web/API/notification)
